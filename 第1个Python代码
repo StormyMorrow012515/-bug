@@ -1,1 +1,2 @@
-现在这里什么也没有
+name = input("请输入你的名字：")
+print(f"你好，{name}！欢迎使用GitHub Copilot Chat Assistant。")
